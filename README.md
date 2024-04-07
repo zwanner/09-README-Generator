@@ -11,9 +11,9 @@
  * [Tests](#tests)
  * [Questions](#questions)
 ## Installation
- Clone this respository, use nmp to install inquirer `npm i inquirer`
+ Clone this respository, use npm to install inquirer `npm i inquirer`
 ## Usage
- run "node index.js"
+ run `node index.js`
 
  [DEMO VIDEO](https://youtu.be/dW8bbuqxBWM)
 ## License
