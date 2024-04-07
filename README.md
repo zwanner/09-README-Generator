@@ -2,7 +2,7 @@
 ## Description
  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
  
- This project is run in CLI and given user inputs, generates a professional README document
+ This project is run in CLI and given user inputs, generates a professional README document.
 ## Table of Contents
  * [Installation](#installation)
  * [Usage](#usage)
@@ -11,9 +11,10 @@
  * [Tests](#tests)
  * [Questions](#questions)
 ## Installation
- Clone this respository, open the folder in your CLI and type "node index.js"
+ Clone this respository, use nmp to install inquirer `npm i inquirer`
 ## Usage
  run "node index.js"
+ ![video](https://youtu.be/dW8bbuqxBWM)
 ## License
     This project is licensed under the MIT license.
  [License](https://opensource.org/licenses/MIT)
