@@ -11,7 +11,7 @@
  * [Tests](#tests)
  * [Questions](#questions)
 ## Installation
- Clone this respository, use npm to install inquirer `npm i inquirer`
+ Clone this respository, use npm to install inquirer. `npm i inquirer`
 ## Usage
  run `node index.js`
 
@@ -22,6 +22,6 @@
 ## Contributing
  Just pull request!
 ## Tests
- There are no tests for this project
+ There are no tests for this project.
 ## Questions
  [Zwanner](https://github.com/Zwanner)
