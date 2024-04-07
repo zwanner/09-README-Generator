@@ -14,8 +14,8 @@
  Clone this respository, use nmp to install inquirer `npm i inquirer`
 ## Usage
  run "node index.js"
- 
- [video](https://youtu.be/dW8bbuqxBWM)
+
+ [DEMO VIDEO](https://youtu.be/dW8bbuqxBWM)
 ## License
     This project is licensed under the MIT license.
  [License](https://opensource.org/licenses/MIT)
